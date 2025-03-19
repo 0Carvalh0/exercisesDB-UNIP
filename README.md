@@ -12,8 +12,8 @@ Este repositório contém os exercícios realizados durante o curso de Análise 
 
 O repositório está organizado da seguinte forma:
 
-- `Exercicios_DB/ex001`: Exercícios da primeira aula
-- `Exercicios_DB/ex002`: Exercícios da segunda aula
+- `Exercicios_DB/AULA01.sql`: Exercícios da primeira aula
+- `Exercicios_DB/AULA02.sql`: Exercícios da segunda aula
 - ...
 
 Cada pasta contém os arquivos relacionados aos exercícios daquela aula específica.
