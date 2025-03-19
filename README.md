@@ -12,8 +12,8 @@ Este repositório contém os exercícios realizados durante o curso de Análise 
 
 O repositório está organizado da seguinte forma:
 
-- `Exercicios_SQLServer/ex001`: Exercícios da primeira aula
-- `Exercicios_SQLServer/ex002`: Exercícios da segunda aula
+- `Exercicios_DB/ex001`: Exercícios da primeira aula
+- `Exercicios_DB/ex002`: Exercícios da segunda aula
 - ...
 
 Cada pasta contém os arquivos relacionados aos exercícios daquela aula específica.
@@ -27,7 +27,7 @@ Cada pasta contém os arquivos relacionados aos exercícios daquela aula especí
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/0Carvalh0/exercisesSQLServer-UNIP.git
+   git clone https://github.com/0Carvalh0/exercisesDB-UNIP.git
    ```
 2. Navegue até a pasta do exercício desejado.
 
